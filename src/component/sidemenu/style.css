@@ -1,0 +1,22 @@
+.sidenav {
+    width: 150px;
+    background: #eee;
+    overflow-x: hidden;
+    position: fixed;
+}
+
+.sidenav a{
+    color: rgb(233, 107, 107);
+    text-decoration: none;
+    display: block;
+    font-size: 25px;
+    padding: 6px 8px 6px 16px;
+}
+
+.sidenav a:hover{
+    color: black;
+}
+
+.main {
+    margin-left: 160px;
+}
